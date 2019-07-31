@@ -1,1 +1,4 @@
-git github idea
+
+
+git github ideia
+linux
